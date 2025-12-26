@@ -1,4 +1,4 @@
-import Button from "../common/btn";
+import Button from "./common/btn";
 function ProductSection() {
     return (
       <section className="product-section">

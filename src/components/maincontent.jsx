@@ -1,4 +1,4 @@
-import Button from "../common/btn";
+import Button from "./common/btn";
 function MainContent() {
     return (
       <main>
